@@ -25,7 +25,7 @@
 //used code from http://www.programmingforums.org/thread5906.html
 	function quote_generate()
 	{
-		$quote = array("Free at last, free at last! - MLK","So it seems like this internet thing is here to stay, huh? -Chandler Bing",
+		$quote = array("I am ready to face any challenge that might be foolish enough to face me - Dwight K. Schrute", "So it seems like this internet thing is here to stay, huh? -Chandler Bing",
 		"You miss 100% of the shots you don't take - Wayne Gretzky - Michael Scott");
 
 		return($quote[rand(0, count($quote) - 1)]);
