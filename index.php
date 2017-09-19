@@ -3,9 +3,6 @@
  <head>
   <link rel="stylesheet" type = "text/css" href="stylesheet.css"/>
 
-
-
-
  </head>
  <body>
 <h1>	 Tracy Ericson -cool </h1>
